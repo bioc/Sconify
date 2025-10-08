@@ -8,3 +8,7 @@
 * Removed the rflann dependency as it was removed from CRAN. Now knn is found
   using the FNN CRAN package.
 * Updated the code to work with the updated version of ggplot2.
+
+# Sconify 1.28.1
+
+* Fixed compatibility issue with new version of ggplot2, which uses S7 classes.
